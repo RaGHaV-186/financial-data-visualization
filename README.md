@@ -20,8 +20,8 @@ It automatically fetches historical market data using the Yahoo Finance API, pro
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/tech-stock-analysis.git](https://github.com/YOUR_USERNAME/tech-stock-analysis.git)
-    cd tech-stock-analysis
+    git clone [https://github.com/YOUR_USERNAME/financial-data-visualization.git](https://github.com/YOUR_USERNAME/financial-data-visualization.git)
+    cd financial-data-visualization
     ```
 
 2.  **Install the dependencies:**
